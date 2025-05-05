@@ -23,7 +23,7 @@ Procesamiento de datos de viento (Global Ocean Wind L4) para generar mapas de di
 - Python (para scripts de automatización básica).
 
 ## 📊 Resultados
-![Mapa de dirección del viento](outputs/wind_direction_map.png)
+![Mapa de dirección del viento]((https://github.com/GuillermoSan84/VS_OceanMX/blob/main/VS_Oceanos.jpg?raw=true))
 *Mapa de vectores de viento (promedio mensual, diciembre 2016).*
 
 ## 🚀 Cómo replicar
