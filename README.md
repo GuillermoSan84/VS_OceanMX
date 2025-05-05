@@ -67,7 +67,3 @@ arcpy.SpatialJoin_analysis(
 ![Mapa de dirección del viento](https://github.com/GuillermoSan84/VS_OceanMX/blob/main/VS_Oceanos.jpg?raw=true)
 *Mapa de vectores de viento (promedio mensual, diciembre 2016).*
 Disponibles para visualización en el geoportal de la UNINMAR del Instituto de Ciencias del Mar y Limnología de la UNAM: http://uninmar.icmyl.unam.mx/geoportal#zoom=5&lat=-11320833.54&lon=2475744.62&layers=BOOT
-
-## 🚀 Cómo replicar
-1. Descargar datos de Copernicus Marine.
-2. Ejecutar scripts en `/scripts/` (requiere QGIS y ArcGIS).
